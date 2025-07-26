@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Hiren Dholariya
 
-<!--
-**CodeWithHiren/CodeWithHiren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma Student | MERN Stack Developer | Java Enthusiast  
+💻 I'm passionate about building full-stack apps and solving real-world problems.
 
-Here are some ideas to get you started:
+📂 **Project Highlight**:  
+- [DentalCare – MERN Stack Clinic App](https://github.com/CodeWithHiren/Dentalcare)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Skills**  
+Java | MySQL | React | Node.js | MongoDB | HTML | CSS
+
+📫 **Connect with me**  
+[LinkedIn](https://linkedin.com/in/gp-avpti-comp-hiren-dholariya236020307038)
